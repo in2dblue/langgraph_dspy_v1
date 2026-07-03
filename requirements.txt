@@ -1,0 +1,11 @@
+# LangGraph & DSPy agentic banking assistant (Gemini 2.5 Flash on Vertex AI)
+arize-phoenix-otel>=0.16.1
+dspy>=2.5.0
+google-cloud-aiplatform>=1.60.0
+langgraph>=0.2.40
+langchain-core>=0.3.0
+mlflow>=2.5.0
+openinference-instrumentation-langchain>=0.1.66
+openinference-instrumentation-dspy>=0.1.37
+openinference-instrumentation-litellm>=0.1.34
+python-dotenv>=1.0.0
